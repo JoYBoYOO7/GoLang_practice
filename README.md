@@ -43,6 +43,4 @@ To run the switch statement practice file:
 go run switch/switch.go
 ```
 
----
-
 This repository is for personal learning and is a work in progress. New concepts and examples will be added as my journey with Go continues.
